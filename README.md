@@ -9,8 +9,9 @@ This is the metapackage, to see the actual code https://github.com/dbellettini/p
 
 [![Latest Stable Version](https://poser.pugx.org/dbellettini/eventstore-client/v/stable.svg)](https://packagist.org/packages/dbellettini/eventstore-client) [![Total Downloads](https://poser.pugx.org/dbellettini/eventstore-client/downloads.svg)](https://packagist.org/packages/dbellettini/eventstore-client) [![Latest Unstable Version](https://poser.pugx.org/dbellettini/eventstore-client/v/unstable.svg)](https://packagist.org/packages/dbellettini/eventstore-client) [![License](https://poser.pugx.org/dbellettini/eventstore-client/license.svg)](https://packagist.org/packages/dbellettini/eventstore-client)
 
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/dbellettini/geteventstore-php/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/dbellettini/geteventstore-php/?branch=master)
-[![Code Coverage](https://scrutinizer-ci.com/g/dbellettini/geteventstore-php/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/dbellettini/geteventstore-php/?branch=master)
+[//]: #[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/dbellettini/geteventstore-php/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/dbellettini/geteventstore-php/?branch=master)
+[//]: #[![Code Coverage](https://scrutinizer-ci.com/g/dbellettini/geteventstore-php/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/dbellettini/geteventstore-php/?branch=master)
+
 [![Build Status](https://travis-ci.org/dbellettini/geteventstore-php.svg?branch=master)](https://travis-ci.org/dbellettini/geteventstore-php)
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/dbellettini/geteventstore-php.svg)](http://isitmaintained.com/project/dbellettini/geteventstore-php "Average time to resolve an issue")
 [![Percentage of issues still open](http://isitmaintained.com/badge/open/dbellettini/geteventstore-php.svg)](http://isitmaintained.com/project/dbellettini/geteventstore-php "Percentage of issues still open")

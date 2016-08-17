@@ -3,7 +3,7 @@ GetEventStore PHP client
 
 PHP client for [EventStore 3.x HTTP API](http://docs.geteventstore.com/http-api/latest)
 
-This is the metap-package, to see the actual code https://github.com/dbellettini/php-eventstore-client
+This is the metapackage, to see the actual code https://github.com/dbellettini/php-eventstore-client
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dbellettini/geteventstore-php?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 

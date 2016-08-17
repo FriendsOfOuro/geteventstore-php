@@ -1,0 +1,16 @@
+#!/bin/sh
+
+PROJECTROOT=`echo $(cd ${0%/*}/../../ && pwd -P)`/
+FIXER=bin/php-cs-fixer
+
+echo "Running php-cs-fixer to fix the coding standard"
+if [ ! -e ${PROJECTROOT}${FIXER} ]; then
+    echo "PHP-CS-Fixer not available, please install development dependencies!"
+    exit 1
+fi
+
+cd ${PROJECTROOT} && php ${FIXER} fix --verbose
+if [ "$?" -ne 0 ]; then
+    echo "Coding standards are not correct, cancelling your commit."
+    exit 1
+fi

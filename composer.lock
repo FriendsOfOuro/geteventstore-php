@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "8f15cb62f7a2cc026441c462acd98b09",
-    "content-hash": "465d35b99a05f274132e9652b24aad9d",
+    "hash": "0c4457478ec1aef9b35e9b427481cd11",
+    "content-hash": "7017f2105b7d11456b281f55864012cb",
     "packages": [
         {
-            "name": "dbellettini/eventstore-client",
+            "name": "dbellettini/geteventstore-core",
             "version": "v0.8.0",
             "source": {
                 "type": "git",
-                "url": "https://github.com/dbellettini/php-eventstore-client.git",
+                "url": "https://github.com/dbellettini/geteventstore-php-core.git",
                 "reference": "016529f9345fde76bd13aeb16f144d396c1d6ae5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/dbellettini/php-eventstore-client/zipball/016529f9345fde76bd13aeb16f144d396c1d6ae5",
+                "url": "https://api.github.com/repos/dbellettini/geteventstore-php-core/zipball/016529f9345fde76bd13aeb16f144d396c1d6ae5",
                 "reference": "016529f9345fde76bd13aeb16f144d396c1d6ae5",
                 "shasum": ""
             },

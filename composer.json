@@ -25,7 +25,7 @@
     ],
     "require": {
         "php": ">=5.5.0",
-        "dbellettini/geteventstore-core": "~0.8",
+        "friendsofouro/geteventstore-core": "~0.8",
         "guzzlehttp/guzzle": "~6.0",
         "kevinrob/guzzle-cache-middleware": "^0.7.1",
         "doctrine/cache": "~1.4"

@@ -1,5 +1,5 @@
 {
-    "name": "dbellettini/geteventstore",
+    "name": "friendsofouro/geteventstore",
     "description": "EventStore client for PHP - metapackage",
     "type": "library",
     "keywords": [
@@ -20,7 +20,7 @@
         },
         {
             "name": "Contributors",
-            "homepage": "https://github.com/dbellettini/php-geteventstore/graphs/contributors"
+            "homepage": "https://github.com/friendsofouro/geteventstore-php/graphs/contributors"
         }
     ],
     "require": {

@@ -5,9 +5,9 @@ PHP client for [EventStore 3.x HTTP API](http://docs.geteventstore.com/http-api/
 
 This is the metapackage, to see the actual code https://github.com/FriendsOfOuro/php-eventstore-client
 
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/friendsofouro/geteventstore-php?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/FriendsOfOuro/geteventstore-php?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-[![Latest Stable Version](https://poser.pugx.org/friendsofouro/eventstore-client/v/stable.svg)](https://packagist.org/packages/dbellettini/eventstore-client) [![Total Downloads](https://poser.pugx.org/dbellettini/eventstore-client/downloads.svg)](https://packagist.org/packages/dbellettini/eventstore-client) [![Latest Unstable Version](https://poser.pugx.org/dbellettini/eventstore-client/v/unstable.svg)](https://packagist.org/packages/dbellettini/eventstore-client) [![License](https://poser.pugx.org/dbellettini/eventstore-client/license.svg)](https://packagist.org/packages/dbellettini/eventstore-client)
+[![Latest Stable Version](https://poser.pugx.org/friendsofouro/eventstore-client/v/stable.svg)](https://packagist.org/packages/friendsofouro/eventstore-client) [![Total Downloads](https://poser.pugx.org/friendsofouro/eventstore-client/downloads.svg)](https://packagist.org/packages/friendsofouro/eventstore-client) [![Latest Unstable Version](https://poser.pugx.org/friendsofouro/eventstore-client/v/unstable.svg)](https://packagist.org/packages/friendsofouro/eventstore-client) [![License](https://poser.pugx.org/friendsofouro/eventstore-client/license.svg)](https://packagist.org/packages/friendsofouro/eventstore-client)
 
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/FriendsOfOuro/geteventstore-php.svg)](http://isitmaintained.com/project/FriendsOfOuro/geteventstore-php "Average time to resolve an issue")
 [![Percentage of issues still open](http://isitmaintained.com/badge/open/FriendsOfOuro/geteventstore-php.svg)](http://isitmaintained.com/project/FriendsOfOuro/geteventstore-php "Percentage of issues still open")
@@ -32,7 +32,7 @@ Integrations
 
 Documentation
 -------------
-See our [wiki](https://github.com/dbellettini/geteventstore-php/wiki)
+See our [wiki](https://github.com/FriendsOfOuro/geteventstore-php/wiki)
 
 Contributing
 ------------
